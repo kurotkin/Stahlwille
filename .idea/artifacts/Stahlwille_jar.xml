@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Stahlwille:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Stahlwille_jar</output-path>
+    <root id="archive" name="Stahlwille.jar">
+      <element id="module-output" name="Stahlwille" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/xerial/sqlite-jdbc/3.16.1/sqlite-jdbc-3.16.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackcess-2.1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-logging-1.1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/yamlbeans-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/itextpdf-5.5.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
